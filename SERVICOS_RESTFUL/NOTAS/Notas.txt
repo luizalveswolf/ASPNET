@@ -1,0 +1,10 @@
+﻿Migrations
+
+Enable-Migrations
+add-Migration Adiciona_Tarefas
+Update-Database
+
+
+
+Depois de criado as entidades é criado o migration
+em seguida na pasta controller é criado um scaflone com entity para o crud

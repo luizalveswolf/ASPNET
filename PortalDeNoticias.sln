@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalDeNoticias", "PortalD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SERVICOS_RESTFUL", "SERVICOS_RESTFUL\SERVICOS_RESTFUL.csproj", "{1B1BB818-7EE3-4B9E-89E1-F480E66F3F60}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NOTAS", "NOTAS", "{AA9E8B3C-37E7-461A-81B3-74028068645E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
