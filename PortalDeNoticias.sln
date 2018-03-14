@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalDeNoticias", "PortalDeNoticias\PortalDeNoticias.csproj", "{6F702FD0-7D6B-4F71-94F1-15C2EB4006B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SERVICOS_RESTFUL", "SERVICOS_RESTFUL\SERVICOS_RESTFUL.csproj", "{1B1BB818-7EE3-4B9E-89E1-F480E66F3F60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{6F702FD0-7D6B-4F71-94F1-15C2EB4006B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F702FD0-7D6B-4F71-94F1-15C2EB4006B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F702FD0-7D6B-4F71-94F1-15C2EB4006B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1BB818-7EE3-4B9E-89E1-F480E66F3F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1BB818-7EE3-4B9E-89E1-F480E66F3F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1BB818-7EE3-4B9E-89E1-F480E66F3F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1BB818-7EE3-4B9E-89E1-F480E66F3F60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E2E259-0836-495F-97E9-D22999BF4B74}
 	EndGlobalSection
 EndGlobal
