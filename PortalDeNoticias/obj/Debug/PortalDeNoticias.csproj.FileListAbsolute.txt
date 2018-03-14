@@ -1,0 +1,100 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\csc.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\vbc.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\PortalDeNoticias.dll.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\PortalDeNoticias.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\PortalDeNoticias.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Helpers.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Mvc.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Razor.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Razor.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Razor.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Razor.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Helpers.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Mvc.xml
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.dll
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.pdb
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\csc.exe
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\System.Collections.Immutable.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\System.Reflection.Metadata.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\vbc.exe
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\VBCSCompiler.exe
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\roslyn\VBCSCompiler.exe.config
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\PortalDeNoticias.dll.config
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\PortalDeNoticias.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\PortalDeNoticias.pdb
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\Microsoft.Web.Infrastructure.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Helpers.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Mvc.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Razor.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Webpages.Deployment.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Webpages.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Webpages.Razor.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Razor.xml
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Webpages.xml
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Webpages.Deployment.xml
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Webpages.Razor.xml
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Helpers.xml
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\bin\System.Web.Mvc.xml
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\obj\Debug\PortalDeNoticias.csprojResolveAssemblyReference.cache
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\obj\Debug\PortalDeNoticias.dll
+E:\DevMedia\Cursos\NET\Primeiros passos ASP.NET MVC\Fontes\aula11\PortalDeNoticias\obj\Debug\PortalDeNoticias.pdb
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\csc.exe
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\vbc.exe
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\VBCSCompiler.exe
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\PortalDeNoticias.dll.config
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\PortalDeNoticias.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\PortalDeNoticias.pdb
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Helpers.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Mvc.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Razor.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Deployment.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Razor.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Razor.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Deployment.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Webpages.Razor.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Helpers.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\bin\System.Web.Mvc.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.csprojResolveAssemblyReference.cache
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.csproj.CoreCompileInputs.cache
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\PortalDeNoticias\PortalDeNoticias\obj\Debug\PortalDeNoticias.pdb
